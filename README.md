@@ -47,7 +47,6 @@ The project runs in **Google Colab** and requires the following dependencies:
 │── 📄 Stock_Market_EDA.ipynb  # Jupyter Notebook (Google Colab)
 │── 📄 data/              # Directory for dataset (if applicable)
 │── 📄 results/           # Output results (graphs, reports)
-│── 📄 requirements.txt   # List of dependencies
 │── 📄 Stock Market Trend Analysis.pdf  # Research Report
 ```
 
@@ -66,13 +65,6 @@ To run the project locally, clone the repository:
 ```bash
 git clone https://github.com/your-username/Stock-Market-Trend-Analysis.git
 cd Stock-Market-Trend-Analysis
-```
-
-### **3️⃣ Install Dependencies**
-Ensure all dependencies are installed:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ### **4️⃣ Run the Notebook**
